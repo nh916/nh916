@@ -20,6 +20,9 @@
 - HTML 5
 - CSS 3
   - Bootstrap
+  - Materialize
+  - Fontawesome
+  - Google Fonts/Icons
 - SASS
 - ARM Assembly
 - Docker
