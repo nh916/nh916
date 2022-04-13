@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nh916&theme=monokai)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nh916&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nh916&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 
