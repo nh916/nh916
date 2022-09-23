@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nh916&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nh916&langs_count=8&theme=onedark)](https://github.com/nh916/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nh916&langs_count=8&theme=onedark)](https://github.com/nh916/github-readme-stats) -->
 
 
 
