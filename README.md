@@ -14,6 +14,7 @@
 - Python
   - Django
   - Flask
+  - eel
 - JavaScript
   - jQuery
   - Vue
