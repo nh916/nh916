@@ -23,7 +23,7 @@
 #### ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 
 ![Python Django](https://img.shields.io/badge/Framework-Django-brightgreen?style=flat-square&logo=django)
-![Python Flask](https://img.shields.io/badge/Framework-Django-brightgreen?style=flat-square&logo=flask)
+![Python Flask](https://img.shields.io/badge/Framework-Flask-brightgreen?style=flat-square&logo=flask)
 ![Python Eel](https://img.shields.io/badge/Framework-Eel-blueviolet?style=flat-square&logo=python)
 
 ---
