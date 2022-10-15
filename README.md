@@ -22,6 +22,7 @@
 
 #### ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 
+![Pip](https://img.shields.io/badge/Package%20Manager-pip-blue?style=flat-square)
 ![Python Django](https://img.shields.io/badge/Framework-Django-brightgreen?style=flat-square&logo=django)
 ![Python Flask](https://img.shields.io/badge/Framework-Flask-brightgreen?style=flat-square&logo=flask)
 ![Python Eel](https://img.shields.io/badge/Framework-Eel-blueviolet?style=flat-square&logo=python)
@@ -30,6 +31,7 @@
 
 #### ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript)
 
+![npm](https://img.shields.io/badge/Package%20Manager-npm-red?style=flat-square&logo=npm)
 ![JQuery](https://img.shields.io/badge/Framework-JQuery-blue?style=flat-square&logo=jquery)
 ![Vue](https://img.shields.io/badge/Framework-Vue-brightgreen?style=flat-square&logo=vue.js)
 ![React](https://img.shields.io/badge/Framework-React-blue?style=flat-square&logo=react)
