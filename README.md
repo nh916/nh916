@@ -9,6 +9,16 @@
 
 
 
+#### ![Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=java)
+#### ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
+![Python Django](https://img.shields.io/badge/Framework-Django-brightgreen?style=flat-square&logo=django)
+![Python Flask](https://img.shields.io/badge/Framework-Django-brightgreen?style=flat-square&logo=flask)
+![Python Eel](https://img.shields.io/badge/Framework-Eel-blueviolet?style=flat-square&logo=python)
+
+
+#### ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![JQuery](https://img.shields.io/badge/Framework-JQuery-blue?style=flat-square&logo=jquery)
+
 ### Programming Technologies I have experience with:
 - Java
 - Python
