@@ -25,7 +25,7 @@
 ![Pip](https://img.shields.io/badge/Package%20Manager-pip-blue?style=flat-square)
 ![Python Django](https://img.shields.io/badge/Framework-Django-brightgreen?style=flat-square&logo=django)
 ![Python Flask](https://img.shields.io/badge/Framework-Flask-brightgreen?style=flat-square&logo=flask)
-![Python Eel](https://img.shields.io/badge/Framework-Eel-blueviolet?style=flat-square&logo=python)
+![Python Eel](https://img.shields.io/badge/Package-Eel-blueviolet?style=flat-square&logo=python)
 
 ---
 
@@ -101,7 +101,6 @@
 ---
 
 ![Google Analytics](https://img.shields.io/badge/Technology-Google%20Analytics-blue?style=flat-square&logo=googleanalytics)
-![Google Tag Manager](https://img.shields.io/badge/Technology-Google%20Tag%20manager-blue?style=flat-square&logo=googletagmanager)
 ![Google Tag Manager](https://img.shields.io/badge/Technology-Google%20Tag%20manager-blue?style=flat-square&logo=googletagmanager)
 ![Graphic Design](https://img.shields.io/badge/Skill-Graphic%20Design-blue?style=flat-square)
 
