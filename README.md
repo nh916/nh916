@@ -6,8 +6,6 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nh916&langs_count=8&theme=onedark)](https://github.com/nh916/github-readme-stats) -->
 
-![nh916](https://github-contributor-stats.vercel.app/api?username=nh916)
-
 <br> <br>
 
 <!--
