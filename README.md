@@ -29,6 +29,11 @@
 ![Python Hy](https://img.shields.io/badge/Package-Hy-blueviolet?style=flat-square&logo=python)
 
 ---
+#### ![Ruby](https://img.shields.io/badge/Language-Ruby-red?style=for-the-badge&logo=ruby)
+![RubyGems](https://img.shields.io/badge/Package%20Manager-rubygem-red?style=flat-square&logo=rubygems)
+![Ruby Jekyll](https://img.shields.io/badge/Static%20Site%20Generator-Jekyll-red?style=flat-square&logo=jekyll)
+
+---
 
 #### ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript)
 
