@@ -26,6 +26,7 @@
 ![Python Django](https://img.shields.io/badge/Framework-Django-brightgreen?style=flat-square&logo=django)
 ![Python Flask](https://img.shields.io/badge/Framework-Flask-brightgreen?style=flat-square&logo=flask)
 ![Python Eel](https://img.shields.io/badge/Package-Eel-blueviolet?style=flat-square&logo=python)
+![Python Hy](https://img.shields.io/badge/Package-Hy-blueviolet?style=flat-square&logo=python)
 
 ---
 
