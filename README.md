@@ -32,6 +32,7 @@
 #### ![Ruby](https://img.shields.io/badge/Language-Ruby-red?style=for-the-badge&logo=ruby)
 ![RubyGems](https://img.shields.io/badge/Package%20Manager-rubygem-red?style=flat-square&logo=rubygems)
 ![Ruby Jekyll](https://img.shields.io/badge/Static%20Site%20Generator-Jekyll-red?style=flat-square&logo=jekyll)
+![Markdown](https://img.shields.io/badge/Language-Markdown-black?style=flat-square&logo=markdown)
 
 ---
 
@@ -83,6 +84,7 @@
 #### ![Docker](https://img.shields.io/badge/Technology-Docker-blue?style=for-the-badge&logo=docker)
 
 ![Bash](https://img.shields.io/badge/Language-Bash-black?style=flat-square&logo=GNUbash)
+![YAML](https://img.shields.io/badge/Language-YAML-blue?style=flat-square&logo=YAML)
 
 ---
 
