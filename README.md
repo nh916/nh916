@@ -23,8 +23,11 @@
 #### ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 
 ![Pip](https://img.shields.io/badge/Package%20Manager-pip-blue?style=flat-square)
+![Poetry](https://img.shields.io/badge/Package%20Manager-poetry-blue?style=flat-square&logo=poetry)
 ![Python Django](https://img.shields.io/badge/Framework-Django-brightgreen?style=flat-square&logo=django)
 ![Python Flask](https://img.shields.io/badge/Framework-Flask-brightgreen?style=flat-square&logo=flask)
+![Python FastAPI](https://img.shields.io/badge/Framework-FastAPI-blue?style=flat-square&logo=fastapi)
+![Pydantic](https://img.shields.io/badge/Validation-Pydantic-blueviolet?style=flat-square&logo=pydantic)
 ![Python Eel](https://img.shields.io/badge/Package-Eel-blueviolet?style=flat-square&logo=python)
 ![Python Hy](https://img.shields.io/badge/Package-Hy-blueviolet?style=flat-square&logo=python)
 ![Python Pytest](https://img.shields.io/badge/Package-Pytest-green?style=flat-square&logo=pytest)
@@ -93,6 +96,7 @@
 
 ![MYSQL](https://img.shields.io/badge/Databas-MySQL-orange?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/Databas-PostgreSQL-blue?style=flat-square&logo=postgresql)
+![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-orange?style=flat-square&logo=amazon-dynamodb)
 ![SQLITE](https://img.shields.io/badge/Databas-SQLITE-blue?style=flat-square&logo=sqlite)
 ![Redis](https://img.shields.io/badge/Databas-Redis-red?style=flat-square&logo=redis)
 
